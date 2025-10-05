@@ -1,0 +1,6 @@
+pyspark==3.4.1
+nltk==3.8.1
+pandas==2.1.0
+python-dateutil
+textblob==0.17.1
+pyarrow
